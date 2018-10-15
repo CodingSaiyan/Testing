@@ -1,0 +1,3 @@
+I am still doing alright.
+
+I forgot to git init
